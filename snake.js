@@ -4,7 +4,7 @@
  * EECS 183: Final Project REACH
  * Fall 2016
  *
- *
+ * Developed by Nathan Shepherd
  */
 
 var Constants = {
